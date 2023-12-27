@@ -112,7 +112,7 @@ const Navbar = ({ onSearch, onSortChange }) => {
               Search
             </button>
             <a
-              href="https://github.com/your-username/your-repo"
+              href="https://github.com/Abhishekrnjn25/XYZ-Aggeregator"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-link text-light"
